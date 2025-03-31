@@ -23,7 +23,10 @@ Danach started die `app_main` im Mikrocontroller und die Motoren fangen an sich 
 Funtionalität ist in der [motor_control.c](./main/motor_control.c).
 
 # Resources
+
 [1] - https://www.handsontec.com/dataspecs/module/L298N%20Motor%20Driver.pdf
+
 [2] - https://docs.espressif.com/projects/esp-idf/en/stable/esp32/index.html
+
 [3] - https://docs.espressif.com/projects/esp-idf/en/stable/esp32/get-started/linux-macos-setup.html
 
